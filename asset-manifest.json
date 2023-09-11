@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/N-Queen/static/css/main.6ceadacd.css",
+    "main.js": "/N-Queen/static/js/main.0e581619.js",
+    "index.html": "/N-Queen/index.html",
+    "main.6ceadacd.css.map": "/N-Queen/static/css/main.6ceadacd.css.map",
+    "main.0e581619.js.map": "/N-Queen/static/js/main.0e581619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ceadacd.css",
+    "static/js/main.0e581619.js"
+  ]
+}
